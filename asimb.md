@@ -3,7 +3,7 @@
 
 - Ar galima vscode projekte padaryti, kad atidarius projektą automatiškai pasileistų pvz.  git fetch terminalo komanda?
 
-
+- Man atrodo mes galime dabar užcommitinti viens kitam ant klausimų failų netyčia savo tekstą. Gal galima kažkaip to išvengti?
 
 # 2023-09-25
 - Ar gali github private kodas būti dalinamas su ribota grupe žmonių?
