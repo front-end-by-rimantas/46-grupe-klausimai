@@ -4,4 +4,4 @@
 - Ar teminale imanomas *.jpg demonstravimas/atvaizdavimas?
 
 # 2023-09-25
-- ----
+- *
