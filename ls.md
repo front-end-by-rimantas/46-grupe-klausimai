@@ -1,1 +1,1 @@
-testas
+- Kodėl nepavyksta ištraukti iš objekto reikšmę naudojant sintaksę obj['key1']['key2']?
