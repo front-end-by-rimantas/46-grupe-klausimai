@@ -1,2 +1,2 @@
 # 2023-09-25
-Norėčiau žinoti detalesnį skirtumą tarp 'const' ir 'let', tuo pačiu kodėl 'var' yra nebenaudojamas.
+Norėčiau pasigilinti į 'const' ir 'let' skirtumus, tuo pačiu kodėl 'var' yra nebenaudojamas.
