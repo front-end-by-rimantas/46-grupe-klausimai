@@ -1,5 +1,5 @@
 2023-09-26
-klausimai sau:
+- klausimai sau:
 - kuom skiriasi const ir let naudojimas?
 - masyvu ir skriptu panasumai?
 - objektu informacijos formavimas?
