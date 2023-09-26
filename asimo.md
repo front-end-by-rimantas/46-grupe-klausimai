@@ -1,5 +1,5 @@
 # 2023-09-26
-1. Atsiprasau, vakar nebuvau. Mentoriui nusiunciau pateisinama priezasti.
+1. Atsiprasau, vakar (230926) nebuvau. Mentoriui nusiunciau pateisinama priezasti.
 2. Yra skirtumas tarp code parasyto console.clear(); ir terminale parasymo clear exit ?
 
 
