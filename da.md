@@ -1,7 +1,7 @@
 2023-09-26
 - klausimai sau:
 - kuom skiriasi const ir let naudojimas?
-- masyvu ir skriptu panasumai?
+- masyvo ir teksto koregavimo panasumai?
 - objektu informacijos formavimas?
 
 # 2023-09-25
