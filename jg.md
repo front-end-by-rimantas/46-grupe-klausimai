@@ -6,4 +6,3 @@
 # 2023-09-26
 1. Koks geriausas budas susidoroti su floating point tikslumu (0.2 + 0.4 = 0.6000000000000001)?
 2. Kaip/ar imanoma suzinoti nezinoma reiksmes indeksa array viduje. Pvz:`['one', 'two', 'twoPointFive', 'three']`, koks yra "three" indeksas?
-3. Kodel galima modifikuoti `const array`, bet ne `const object`?
