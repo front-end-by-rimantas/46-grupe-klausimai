@@ -1,4 +1,5 @@
 # 2023-09-27
+* user.${'is married'} ? user.eval('is married')
 * 
 
 # 2023-09-26
