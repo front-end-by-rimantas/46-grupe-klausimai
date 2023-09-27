@@ -1,3 +1,6 @@
+# 2023-09-27
+* 
+
 # 2023-09-26
 * obj["jonas"] ir obj.jonas skirtumai, panaudojimo galimybėse...
 * void paskirtis javascripte. ar tai operatorius, ar funkcija, ar duomenų tipas?
