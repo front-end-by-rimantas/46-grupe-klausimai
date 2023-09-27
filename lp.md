@@ -1,4 +1,4 @@
-# 2023-09-26
+# 2023-09-27
 1 Kas būtų/kokios pasekmės jei sukuri ir sukeli į github projektą be JSON failo? Ar jis visada default must?
 
 
