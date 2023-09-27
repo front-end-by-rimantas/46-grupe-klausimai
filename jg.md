@@ -1,3 +1,7 @@
+# 2023-09-28
+1. Kada naudoti `if` ir kada naudoti `switch`.
+2. Koks skirtumas tarp funkcijos `const name = (){//code}` ir `function name(){//code}`
+
 # 2023-09-27
 1. Kokia yra geresne praktika, rasyti koda kompaktiskesni bet sunkiau suprantama ar labiau perskaitoma taciau ilgesni/daugiau eiluciu.
 
