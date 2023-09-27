@@ -1,3 +1,7 @@
+# 2023-09-27
+- Norėčiau labiau įsigilinti į IF funkcionalumą, nes tempas ir sudėtingumas darosi neįveikiami.
+
+
 # 2023-09-26
 - Funkcijos: ar visada kintamojo reikšmės rašomos "console.log (sklaiustuose)", ar yra kiti būdai?
 - Funkcijos: - nėra aiskus "index" funkcionalumas. 
