@@ -1,3 +1,13 @@
+# 2023-09-28
+1. Kiek cia parametru?  Keturi, nes temp ir kada silta "eina" kartu, todel kaip vienas?
+    const parosMetas = `diena`;
+    const arLyja = false;
+    const temp = 25;
+    const kadaSilta = 20;
+    const arAsSuStriuke = true;
+2. Objektu standartine ir supaprastinta sintakses. Tik del paprastumo/maziau simboliu sukurta ta supaprastinta sintakse?
+   Ar yra atveju, kad geriau naudoti supaprastinta nei standartine? Atrodo saugiau butu naudoti visada standartine.
+
 # 2023-09-27
 1 Kas būtų/kokios pasekmės jei sukuri ir sukeli į github projektą be JSON failo? Ar jis visada default must?
 
