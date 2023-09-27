@@ -1,5 +1,5 @@
 # 2023-09-26
-
+1 Kas būtų/kokios pasekmės jei sukuri ir sukeli į github projektą be JSON failo? Ar jis visada default must?
 
 
 # 2023-09-26
