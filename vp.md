@@ -1,3 +1,14 @@
+# 2023-09-28
+- Paskutiniame jusu pavyzdyje:
+  const w = 7;
+  const e = 8;
+  if (w > e) tada programa grąžins mus teisingą atsakymą: "7" yra maziau arba lygu uz "8",
+  bet jei formulėje pakeisite ženklą ">" to "<",
+  if (w < e) taigi console says: "7" yra daugiau uz "8". Tai neteisinga. Kodėl programa pateikia tokį atsakymą??
+- Ar šis išraiškos: "if () {} ... else if() {} ... else {}" gylis ribotas?
+- Internete radau juokingą pavyzdį su kabutėmis. Paaiškinkite, kaip tai veikia? Man idomu: 'It\'s  
+  console.log('It\'s a beautiful day'); // It's a butiful day
+  console.log("It's a beautiful day");  // It's a butiful day
 # 2023-09-27
 - Bandžiau spręsti įvairius KATA. Pavyzdžių dalis ieškojau internete, bet kartais įdėjus jų į VSCode nieko negrįžta terminale. Ar teisingai suprantu, kad ne visi rezultatai išvedami į terminalą per standartinę komandą console.log?
 - Kai kuriuose pavyzdžiuose sutikau & kituose &&. Paaiškinti skirtumą.
