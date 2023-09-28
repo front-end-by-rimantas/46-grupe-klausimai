@@ -1,3 +1,12 @@
+# 2023-09-27
+- Ar komentarus  x = /* komentaras */ 1;  galima terpti bet kur viduryje kodo?
+- Kur geriau rašyti funkcijas? Viršuje ar apačioje? Ar korektiška iškviesti funkciją viršuje, jei ji aprašyta apačioje?
+- kaip kuriant funkciją prie jos kintamųjų prirašyti kokį trumpą komentarą kas tai per kintamasis, kad naudojant funkciją per intelisense būtų būtų rodoma pvz. temp turi būti >= -273.15  && <= Infinity
+- Ar galima viduryje funkcijos nutraukti jos vykdymą? Pvz exit_function();
+- kaip padaryti funkcijos kintamuosius privalomais?
+- Kaip nustatyti default value neprivalomiems funkcijos kintamiesiems?
+- Kaip patikrinti ar kintamasis !== NaN? console.log(NaN === NaN) false.
+
 # 2023-09-26
 - Ar dar mokysimės daugiau apie git ir github?
 - Kaip objekto/array narius  vienu ypu paversti atskirom konstantom. Ar reikia trauktis po vieną?
