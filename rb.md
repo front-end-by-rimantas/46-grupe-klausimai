@@ -1,5 +1,5 @@
 # 2023-09-28
-- Gal yra kokios tvarka kur ir kada deti [ ar { ar (   ar tiesiog isiminti?
+- Gal yra kokia tvarka kur ir kada deti [ ar { ar (   ar tiesiog isiminti?
 
 # 2023-09-26
 - Ar JavaScript kalba pades mokantis Java kalbos, ar jos kardinaliai skiriasi? I kuria kalba JavaScript "panasiausia"?
