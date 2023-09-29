@@ -1,3 +1,7 @@
+# 2023-09-29
+- Ar galima paleisti cykla viduje cykla?
+- 
+-
 # 2023-09-28
 - Paskutiniame jusu pavyzdyje:
   const w = 7;
