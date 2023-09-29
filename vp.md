@@ -1,6 +1,6 @@
 # 2023-09-29
 - Ar galima paleisti cykla viduje cykla?
-- 
+- Ar patogu naudoti Javascript matematiniams sprendimams rašyti? 
 -
 # 2023-09-28
 - Paskutiniame jusu pavyzdyje:
