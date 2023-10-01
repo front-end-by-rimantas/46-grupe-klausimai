@@ -1,6 +1,7 @@
 # 2023-09-28
 * The for statement creates a loop with 3 optional expressions; for(exp1;exp2;exp3), which are mandatory?
-* 
+* BigInt panaudojimas full-stacke?
+* JS HTML DOM - ar šitą mokinsimės, ar čia jau užklasinė veikla? ar labiau gilinsimės php html dom?
 
 # 2023-09-27
 * variable variables.. ten kaip ir viskas aišku - eval('variable'). Ar galima metodui pritaikyti variable method? Kažką tokio? user.${'is married'} ? user.eval('is married').....
