@@ -1,5 +1,9 @@
+# 2023-10-02
+- Išsprendėme užduotį su savaitės dienomis. Ar yra paruoštas sprendimas, kai nereikia koduoti? Gal JavaScript turi omenyje biblioteką,
+  funkciją ar ką nors kita, ką galima naudoti, pavyzdžiui, kalendorių?
+
 # 2023-09-29
-- Ar galima paleisti cykla viduje cykla?
+- Ar galima paleisti cykla viduje cykla? (Atsakymą jau radau Google)
 - Ar patogu naudoti Javascript matematiniams sprendimams rašyti? 
 - Ar kintamojo ilgis turi įtakos kodo vykdymo greičiui?
 # 2023-09-28
