@@ -1,8 +1,8 @@
 # 2023-10-02
 - Del užduotį su savaitės dienomis. Gal JavaScript turi omenyje biblioteką, funkciją ar ką nors kita, ką galima naudoti, pavyzdžiui, sukurti kalendorių?
 - Kodėl rašote naudojamo kodo pradžioje "let a3 = start" su tarpus, bet frazės viduje "let i=0" be?
-- 
-# 2023-09-29
+- Kokio ilgio turėtų būti vienas failas, kad būtų patogu dirbti? Kiek eilučių?
+# 2023-09-29Kokio ilgio turėtų būti vienas failas, kad būtų patogu dirbti? Kiek eilučių?
 - Ar galima paleisti cykla viduje cykla? (Atsakymą jau radau Google)
 - Ar patogu naudoti Javascript matematiniams sprendimams rašyti? 
 - Ar kintamojo ilgis turi įtakos kodo vykdymo greičiui?
