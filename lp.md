@@ -1,5 +1,6 @@
-# 2023-09-28
+# 2023-10-01
 1. Is darbines patirties. Ar tikrajame -darbo programavime tiek pat matematikos, kiek ir codewarse?
+2. For loop. Kilnojimas is parametru bloko pasitaiko darbe ar labiau isdykavimas, tikrinant kiek gali ciklas?
    
 
 # 2023-09-28
