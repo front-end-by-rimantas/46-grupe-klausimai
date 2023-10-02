@@ -1,3 +1,8 @@
+# 2023-10-02
+*
+*
+*
+
 # 2023-09-28
 * The for statement creates a loop with 3 optional expressions; for(exp1;exp2;exp3), which are mandatory?
 * BigInt panaudojimas full-stacke?
