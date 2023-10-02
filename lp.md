@@ -1,4 +1,8 @@
 # 2023-09-28
+1. Is darbines patirties. Ar tikrajame -darbo programavime tiek pat matematikos, kiek ir codewarse?
+   
+
+# 2023-09-28
 1. Kiek cia parametru?  Keturi, nes temp ir kada silta "eina" kartu, todel kaip vienas?
     const parosMetas = `diena`;
     const arLyja = false;
