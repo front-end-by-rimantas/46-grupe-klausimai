@@ -1,5 +1,5 @@
 # 2023-10-02
-01. function: po return jau daugiau nieks nebus vykdoma? ar as kazka ne taip darau?
+01. function: po return jau daugiau nieks nebus vykdoma? ar as kazka ne taip darau?.
     let x = 5;
     x = x + 10;
     x = x / 3;
