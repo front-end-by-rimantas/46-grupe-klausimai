@@ -1,7 +1,7 @@
 # 2023-10-02
-*
-*
-*
+* Kaip galima išsiloginti kodo veikimo laiką? 
+* Best code writing practices for running code smoother. 
+* Sprendžiant sudėtingesnius uždavinius labai išsiplečiu su kodo apimtimi. F-ijos tampa gremėzdiškos, nors pagal gerąją praktija f+ija turi atlikti tik 1 darbą. Gal yra kažkokia "litanija", kaip turi atrodyti programos architektūra ir kaip ji turi būti taisyklingai "lipdoma" .
 
 # 2023-09-28
 * The for statement creates a loop with 3 optional expressions; for(exp1;exp2;exp3), which are mandatory?
