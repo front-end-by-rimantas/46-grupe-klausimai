@@ -1,3 +1,7 @@
+# 2023-10-02
+-Kol kas nepavyksta perprasti CodeWars rasymo logikos :(
+
+
 # 2023-09-28
 -Gal yra kokių kaip galima būtų pagreitinti klavišų kombinacijų mokymąsi, t.y. pasitreniruoti?
 -Kokią patogią klaviatūrą rekomenduotumėte? Ar kiekvienam tinkamą rasti galima tik bandymo metodu?
