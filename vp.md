@@ -1,7 +1,8 @@
 # 2023-10-02
-- Išsprendėme užduotį su savaitės dienomis. Ar yra paruoštas sprendimas, kai nereikia koduoti? Gal JavaScript turi omenyje biblioteką,
-  funkciją ar ką nors kita, ką galima naudoti, pavyzdžiui, kalendorių?
-
+- Del užduotį su savaitės dienomis. Ar yra paruoštas sprendimas, kai nereikia koduoti? Gal JavaScript turi omenyje biblioteką,
+  funkciją ar ką nors kita, ką galima naudoti, pavyzdžiui, sukurti kalendorių?
+- Kodėl rašote naudojamo kodo pradžioje "let a3 = start" su tarpus, bet frazės viduje "let i=0" be?
+- 
 # 2023-09-29
 - Ar galima paleisti cykla viduje cykla? (Atsakymą jau radau Google)
 - Ar patogu naudoti Javascript matematiniams sprendimams rašyti? 
