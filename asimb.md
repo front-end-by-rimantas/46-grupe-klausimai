@@ -1,3 +1,8 @@
+# 2023-10-02
+- Kodel isInteger nėra globaliai pasiekiamas? Kas lemia kad vieni metodai gloabaliai pasiekiami, o kiti ne?
+- kiek bloga situacija su JS interpretavimo skirtumais skirtingose naršyklėse? Ar pakanka naudotis pvz. vien Mozilla MDN?
+- Ar mokysimės apie sortiravimo filtrus? Ar tiesiog patiems pasigilinti?
+
 # 2023-09-27
 - Ar komentarus  x = /* komentaras */ 1;  galima terpti bet kur viduryje kodo?
 - Kur geriau rašyti funkcijas? Viršuje ar apačioje? Ar korektiška iškviesti funkciją viršuje, jei ji aprašyta apačioje?
