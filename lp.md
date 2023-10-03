@@ -1,3 +1,9 @@
+# 2023-10-03
+1. Codewars. Daznai kaip "Best practise" nubalsuoti 'linijinai' aprasymai. Pvz return a.length < b.length ? a+b+a : b+a+b;
+  Pradejau taikyti. Ir tikrai labai patogu, nebesuki galvos del sintakses, kaip aprasyti, kur ir kiek koki riestini uzdeti }. :D
+
+
+
 # 2023-10-01
 1. Is darbines patirties. Ar tikrajame -darbo programavime tiek pat matematikos, kiek ir codewarse?
 2. For loop. Kilnojimas is parametru bloko pasitaiko darbe ar labiau isdykavimas, tikrinant kiek gali ciklas?
