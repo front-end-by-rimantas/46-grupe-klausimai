@@ -1,3 +1,6 @@
+# 2023-10-03
+* 
+
 # 2023-10-02
 * Kaip galima išsiloginti kodo veikimo laiką? 
 * Best code writing practices for running code smoother. 
