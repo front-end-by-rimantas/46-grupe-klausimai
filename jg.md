@@ -1,5 +1,5 @@
-# 2023-10-03
-1. Ar galima atlikti kelias operacijas vienoje kodo eiluteje array.join("").split("").slice(0, 3).
+# 2023-10-04
+1. Ar galima atlikti kelias operacijas vienoje kodo eiluteje array.join("").split("").slice(0, 3) ( ar tai gera praktika? ).
 2. Kaip galima iteruoti per 'object'.
 
 # 2023-09-28
