@@ -1,6 +1,7 @@
 #  2023-10-03 
 - console.clear(); ne visada isvalo VSC terminalą, būna pilnai išvalo, bet būna tik nustumia į viršų, kokie galimi sprendimai?
-
+- kodel kai kuriuos zodzius VSC perbraukia, pvz "name"?
+- 
 #  2023-10-02
 
 # 2023-09-29
