@@ -1,4 +1,9 @@
-
+# 2023-10-05
+- 
+# 2023-10-04
+- nėra klausimu 😊
+# 2023-10-03
+- nėra klausimu 😊
 # 2023-10-02
 - kaip greičiau suvirškinti ir isiminti visas paskaitas :)
 
