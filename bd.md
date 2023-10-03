@@ -1,4 +1,7 @@
 # 2023-10-03
+* Ar JS'e galima regular type pass'int by reference? Realiai, kai naudojiesi f-ijoje kintamuoje, kuris nėra argument list'e, taip ir gaunasi?
+* try-throw-catch ; mokysimės prie JS ar vėliau?
+* JS paskutinė savaitė - toliau imsime html ir css, o JS freestyle? :D
 * 
 
 # 2023-10-02
