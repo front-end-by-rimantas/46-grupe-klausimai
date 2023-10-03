@@ -1,7 +1,8 @@
 #  2023-10-03 
 - console.clear(); ne visada isvalo VSC terminalą, būna pilnai išvalo, bet būna tik nustumia į viršų, kokie galimi sprendimai?
 - kodel kai kuriuos zodzius VSC perbraukia, pvz "name"?
-- 
+- noreciau susipacinti su namu darbo sprendimu, kaip naujas vardas gali buti testuotas funkcija, kuri veiktu White List principu
+  
 #  2023-10-02
 
 # 2023-09-29
