@@ -1,11 +1,5 @@
-# 2023-10-02
-01. function: po return jau daugiau nieks nebus vykdoma? ar as kazka ne taip darau?.
-    let x = 5;
-    x = x + 10;
-    x = x / 3;
-    return x;
-    x = x * 5;
-3. priminkite “argumentas ir parametras” skirtumus.
+# 2023-10-03
+Priminkite “argumentas ir parametras” skirtumus.
 
 2023-09-27
 “iskalimas” mintinai, vakar pasakojote if, else, atrodo suprantu bet neziurint pavyzdzio pats neparasau, beda, beda?
