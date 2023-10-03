@@ -2,7 +2,7 @@
 * Ar JS'e galima regular type pass'int by reference? Realiai, kai naudojiesi f-ijoje kintamuoje, kuris nėra argument list'e, taip ir gaunasi?
 * try-throw-catch ; mokysimės prie JS ar vėliau?
 * JS paskutinė savaitė - toliau imsime html ir css, o JS freestyle? :D
-* 
+* Klausimas ne į temą. jeigu yra domain'as asd.lt, jis dažnmiausiai redirektina į kitą adresą. Kaip shadowint, maskuot, kad įvykus redirektinimui, bei toliau naršant tame psl, matytusi tik domain adresas: asd.lt. Čia jau domain fukncionalumas, ar jau pačios svetainės? 
 
 # 2023-10-02
 * Kaip galima išsiloginti kodo veikimo laiką? 
