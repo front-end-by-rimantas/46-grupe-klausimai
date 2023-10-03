@@ -1,3 +1,5 @@
+# 2023-10-03
+- codewars'uose bandau sprest, bet kazkodel neduoda tasku. Kas ne taip?
 # 2023-10-02
 - gal rekomenduotumet koki papildoma puslapi uzdaviniu? Gal net su sprendimais?
 # 2023-09-27
