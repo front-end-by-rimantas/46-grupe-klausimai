@@ -1,3 +1,7 @@
+# 2023-10-03
+1. Ar galima atlikti kelias operacijas vienoje kodo eiluteje (array.split('')).join('')).
+2. Kaip galima iteruoti per 'object'.
+
 # 2023-09-28
 1. Kada naudoti `if` ir kada naudoti `switch`.
 2. Koks skirtumas tarp `const name = (){//code}` ir `function name(){//code}` funckijų išsireiškimo.
