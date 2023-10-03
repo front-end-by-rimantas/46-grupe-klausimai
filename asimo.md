@@ -1,5 +1,5 @@
 # 2023-10-03
-Priminkite “argumentas ir parametras” skirtumus.
+ai, neklausiu
 
 2023-09-27
 “iskalimas” mintinai, vakar pasakojote if, else, atrodo suprantu bet neziurint pavyzdzio pats neparasau, beda, beda?
