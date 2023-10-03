@@ -1,7 +1,8 @@
 # 2023-10-03
-- codewars'uose bandau sprest, bet kazkodel neduoda tasku. Ka darau ne taip? (unlock solutions nenaudoju).
-# 2023-10-02
+- codewars'uose bandau sprest, bet kazkodel neduoda tasku. Ka darau ne taip? (unlock solutions nenaudoju). Ir nesugebejau issiaiskinti, ka reiskia "Honor bfreakdown"?
 - gal rekomenduotumet koki papildoma puslapi uzdaviniu? Gal net su sprendimais?
+# 2023-10-02
+
 # 2023-09-27
 - 
 # 2023-09-26
