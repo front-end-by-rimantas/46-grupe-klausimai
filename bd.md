@@ -1,7 +1,8 @@
 # 2023-10-04
 * JS'e galima inicijuoti variable 1 eilutėje. O ar galima daryti taip: let a, b;  a = b = 0; ??? Ir ar sveikintina tokia praktika?
 * Ar return statementas privalo būti būtinai per vieną eilute? t.y. nuo return žodelio iki ; negali būti new line?
-* 
+* skirtumas tarp šitų f-ijų pavidalų: "const solve = (x, y) => x / y" ir "const solve = (x) => (y) => y / x". Kodėl pirmu atveju eiliškumas x/y, o kitu y/x norint gauti tą patį ats.
+
 
 # 2023-10-03
 * Ar JS'e galima regular type pass'int by reference? Realiai, kai naudojiesi f-ijoje kintamuoje, kuris nėra argument list'e, taip ir gaunasi?
