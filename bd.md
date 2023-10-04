@@ -1,5 +1,6 @@
 # 2023-10-04
-
+* JS'e galima inicijuoti variable 1 eilutėje. O ar galima daryti taip: let a, b;  a = b = 0; ???
+* 
 
 # 2023-10-03
 * Ar JS'e galima regular type pass'int by reference? Realiai, kai naudojiesi f-ijoje kintamuoje, kuris nėra argument list'e, taip ir gaunasi?
