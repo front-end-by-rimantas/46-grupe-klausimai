@@ -1,3 +1,6 @@
+# 2023-10-03
+404
+
 # 2023-10-02
 - Kodel isInteger nėra globaliai pasiekiamas? Kas lemia kad vieni metodai gloabaliai pasiekiami, o kiti ne?
 - kiek bloga situacija su JS interpretavimo skirtumais skirtingose naršyklėse? Ar pakanka naudotis pvz. vien Mozilla MDN?
