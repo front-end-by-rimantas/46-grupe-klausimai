@@ -1,3 +1,8 @@
+# 2023-10-05
+- Ternary paaiškinkite šį punktą: const q6 = 0 > 1 ? 2 ? 3 : 4 : 5 ? 6 : 7.
+  kaip supratau 0 > 1 return false, o 0 < 1 true bet kaip logiškai eiti toliau?
+# 2023-10-04
+
 # 2023-10-03
 - Codevars puslapyje aptikau tokį kodo: "animal = o => `This ${o.color} ${o.name}..."  Ar tai gera praktika?
 - Kokio ilgio turėtų būti vienas failas, kad būtų patogu dirbti? Kiek eilučių? Musu maksimali failas dabar apie 250 eiles ir 6 KB. Arba tai priklauso nuo žmogaus 
