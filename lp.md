@@ -1,4 +1,9 @@
-# 2023-10-03
+# 2023-10-04
+1. Map'pinima liesime? Ar patiems pasiliesti?;
+2. 
+
+
+2023-10-03
 1. Codewars. Daznai kaip "Best practise" nubalsuoti 'linijinai' aprasymai. Pvz return a.length < b.length ? a+b+a : b+a+b;
   Pradejau taikyti. Ir tikrai labai patogu, nebesuki galvos del sintakses, kaip aprasyti, kur ir kiek koki riestini uzdeti }. :D
 
