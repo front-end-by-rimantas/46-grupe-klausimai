@@ -1,3 +1,5 @@
+# 2023-10-05
+
 # 2023-10-04
 * JS'e galima inicijuoti variable 1 eilutėje. O ar galima daryti taip: let a, b;  a = b = 0; ??? Ir ar sveikintina tokia praktika?
 * Ar return statementas privalo būti būtinai per vieną eilute? t.y. nuo return žodelio iki ; negali būti new line?
