@@ -4,6 +4,8 @@
 
 
 # 2023-10-05
+* this pointeris. Kada veikia, o kada nelabai :)
+* 
 
 # 2023-10-04
 * JS'e galima inicijuoti variable 1 eilutėje. O ar galima daryti taip: let a, b;  a = b = 0; ??? Ir ar sveikintina tokia praktika?
