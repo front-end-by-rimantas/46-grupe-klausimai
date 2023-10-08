@@ -1,8 +1,18 @@
 # 2023-10-10
 - 
 # 2023-10-09
-- nėra klausimu 😊
+- const binaryArrayToNumber = arr => {
   
+  const binaryString = arr.join('');
+  
+  const decimalNumber = parseInt(binaryString, 2);
+  
+  return decimalNumber;
+  
+};
+
+nesupratau kaip veikia ši vieta (parseInt(binaryString, 2))
+
 # 2023-10-05
 - nėra klausimu 😊
 # 2023-10-04
