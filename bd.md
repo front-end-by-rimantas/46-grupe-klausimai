@@ -3,7 +3,8 @@
 # 2023-10-07
 
 # 2023-10-06
-
+* Liepėte visada naudoti === arba !==. O jeigu lyginsi tikrai vertes, kurios negali niekada tapti kažkuo kitu. Kaip pvz. Indeksas i for loope? Arba kokiu atveju conditional carType === "wagon", gali tapti true, jei ne identiškam stringui? Gal tokiais atvejais, užtenka == ? 
+*
 
 # 2023-10-05
 * this pointeris. Kada veikia, o kada nelabai :)
