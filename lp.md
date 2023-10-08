@@ -1,6 +1,11 @@
+# 2023-10-05
+1. Priminimas sau:
+pvz noreciau pasakyti, kad jei x arba y === 0 tai return 0.
+Negalimas uzrasymas x||y === 0; galimas  -->  x === 0 || y === 0
+
 # 2023-10-04
 1. Map'pinima liesime? Ar patiems pasiliesti? Sprendimuose daznai naudojamas, tai vilioja suprasti ir naudoti.
-2. 
+
 
 
 2023-10-03
