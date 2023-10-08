@@ -1,5 +1,5 @@
 # 2023-10-04
-1. Map'pinima liesime? Ar patiems pasiliesti?;
+1. Map'pinima liesime? Ar patiems pasiliesti? Sprendimuose daznai naudojamas, tai vilioja suprasti ir naudoti.
 2. 
 
 
