@@ -8,7 +8,7 @@
 # 2023-10-05
 * this pointeris. Kada veikia, o kada nelabai :)
 * Kodėl sukuriant objektą skripte pagal function konstruktorių, pats konstruktorius gali būti defined vėliau, negu kuriamas objektas? O kuriant objektą, pagal klasę, to padaryti nebegalima. t.y. klasė turi būti defined anksčiau nei kuriamas objektas...
-* 
+* Kuriant objektą pagal class su default values: const cat2 = new Cat(); veikia taip pat, kaip const cat2 = new Cat; Ar interpreteris pats prirašo skliaustus ir rašyti su skliaustais būtų tvarkingiau, ar tai nėra taip svarbu?
 
 
 # 2023-10-04
