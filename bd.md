@@ -1,3 +1,5 @@
+# 2023-10-08
+
 # 2023-10-07
 
 # 2023-10-06
@@ -5,7 +7,8 @@
 
 # 2023-10-05
 * this pointeris. Kada veikia, o kada nelabai :)
-* 
+* Kodėl sukuriant objektą skripte pagal function konstruktorių, pats konstruktorius gali būti defined vėliau, negu kuriamas objektas?
+
 
 # 2023-10-04
 * JS'e galima inicijuoti variable 1 eilutėje. O ar galima daryti taip: let a, b;  a = b = 0; ??? Ir ar sveikintina tokia praktika?
