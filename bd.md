@@ -7,7 +7,8 @@
 
 # 2023-10-05
 * this pointeris. Kada veikia, o kada nelabai :)
-* Kodėl sukuriant objektą skripte pagal function konstruktorių, pats konstruktorius gali būti defined vėliau, negu kuriamas objektas?
+* Kodėl sukuriant objektą skripte pagal function konstruktorių, pats konstruktorius gali būti defined vėliau, negu kuriamas objektas? O kuriant objektą, pagal klasę, to padaryti nebegalima. t.y. klasė turi būti defined anksčiau nei kuriamas objektas...
+* 
 
 
 # 2023-10-04
