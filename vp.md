@@ -1,6 +1,6 @@
 # 2023-10-09
 - Savarankiško darbo metu radau rekomendaciją vardinant kintamuosius naudoti „kuprotąjį registrą“. Paaiškink kodėl?
-
+- Sužinojau, kad yra komanda setTimeout (Alarm, 600 000). Tiesiog įdomu, kur „Javascript“ atima savo laiką? Naudoja savo laikmatį? Serverio laikrodis?
 # 2023-10-05
 - Paaiškinkite ternary šį punktą: "const q6 = 0 > 1 ? 2 ? 3 : 4 : 5 ? 6 : 7."
   kaip supratau "0 > 1" return false, o "0 < 1" true bet kaip logiškai eiti toliau?
