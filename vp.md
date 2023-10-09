@@ -1,3 +1,6 @@
+# 2023-10-10
+- Kodėl "Math.round(const * 100) / 100"; suteikia teisingą vertę, o "Math.round(const)" neteisingas
+
 # 2023-10-09
 - Savarankiško darbo metu radau rekomendaciją vardinant kintamuosius naudoti „kuprotąjį registrą“. Paaiškink kodėl?
 - Sužinojau, kad yra komanda setTimeout (Alarm, 600 000). Tiesiog įdomu, kur „Javascript“ atima savo laiką? Naudoja savo laikmatį? Serverio laikrodis?
