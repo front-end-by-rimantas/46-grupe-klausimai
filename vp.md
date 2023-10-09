@@ -5,7 +5,6 @@
 - Paaiškinkite ternary šį punktą: "const q6 = 0 > 1 ? 2 ? 3 : 4 : 5 ? 6 : 7."
   kaip supratau "0 > 1" return false, o "0 < 1" true bet kaip logiškai eiti toliau?
 - Ar kodams rašyti naudojate pieštuką ir bloknotą?
-# 2023-10-04
 
 # 2023-10-03
 - Codevars puslapyje aptikau tokį kodo: "animal = o => `This ${o.color} ${o.name}..."  Ar tai gera praktika?
