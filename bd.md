@@ -1,4 +1,6 @@
 # 2023-10-09
+* Ar JS yra deconstructorius?
+
 
 # 2023-10-08
 
