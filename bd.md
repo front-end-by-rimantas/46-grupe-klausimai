@@ -1,6 +1,7 @@
 # 2023-10-09
 * Ar JS yra deconstructorius?
-
+* Aną paskaitą mokėmės išskaidyti vizualų tinklalapį į sudarančius blokus, o šiuos į elementus. Ar teisingai manau, kad greičiausiai išmokti front-endo ir būtų toks būdas. Imti puslapio nuotrauką ir bandyti iš pagrindų jį sukurtį?
+* HTTP Methods. Čia kaip suprantu labiau prie duomenų bazių. Eisime prie back-endo?
 
 # 2023-10-08
 
