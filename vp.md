@@ -1,5 +1,6 @@
 # 2023-10-10
-- Kodėl "Math.round(const * 100) / 100"; suteikia teisingą vertę, o "Math.round(const)" neteisingas
+- Kodėl "Math.round(const * 100) / 100"; suteikia teisingą vertę, o "Math.round(const)" neteisingas.
+- Ar galima pakeisti projekto viešumą per VS Code? Kelias dienas dirbau privačiu režimu to nepastebėdamas. My fault! 
 
 # 2023-10-09
 - Savarankiško darbo metu radau rekomendaciją vardinant kintamuosius naudoti „kuprotąjį registrą“. Paaiškink kodėl?
