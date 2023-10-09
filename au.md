@@ -1,5 +1,5 @@
 # 2023-10-10
-- nėra klausimu 😊
+- kol kas nėra klausimu 😊
 # 2023-10-09
 - const binaryArrayToNumber = arr => {
   
