@@ -1,3 +1,7 @@
+# 2023-10-05
+- ar galima kažkaip trumpinti if bei for
+- ar yra kokių nors automatinių priemonių kodo "dekompresijai"?
+
 # 2023-10-03
 404
 
