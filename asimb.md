@@ -1,3 +1,8 @@
+# 2023-10-09
+- Kaip dead server priversti stebėti kitą failą nei index.html
+- Ką stebi dead server? Vieną failą, visus projekto failus (be išimčių)?
+- <section> vs <div>. 
+
 # 2023-10-05
 - ar galima kažkaip trumpinti if bei for
 - ar yra kokių nors automatinių priemonių kodo "dekompresijai"?
