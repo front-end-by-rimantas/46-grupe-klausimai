@@ -1,7 +1,7 @@
 # 2023-10-10
 1. Ar gera praktika naudoti `display:flex`, norint centruoti elementus?
 2. Ar yra kazkokia nauda palikti default `box-sizing : content-box?` Ar geriau visada nudoti `border-box`?
-3. Ar norit sukurti "responsive" design, ar visada naudojama `@media`, ar tai galima pasiekti kitais budais?
+3. Norit sukurti "responsive" design, ar visada naudojama `@media`, ar tai galima pasiekti kitais budais?
 
 # 2023-10-05
 1. Kokiu atvėju reiktu naudoti Class.
