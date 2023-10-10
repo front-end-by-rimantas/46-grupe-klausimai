@@ -1,5 +1,5 @@
 # 2023-10-10
-* Ar nebūtų geriau <main> tagui išstumdyti naudoti vh ir vw, vietoj %? Ar kadangi main yra html vaikas, html vistiek visa viewport užima?
+* Ar nebūtų geriau "<main>" tagui išstumdyti naudoti vh ir vw, vietoj %? Ar kadangi main yra html vaikas, html vistiek visa viewport užima?
 
 # 2023-10-09
 * Ar JS yra deconstructorius?
