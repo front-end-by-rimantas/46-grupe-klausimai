@@ -1,3 +1,6 @@
+# 2023-10-10
+* Ar nebūtų geriau <main> tagui išstumdyti naudoti vh ir vw, vietoj %? Ar kadangi main yra html vaikas, html vistiek visa viewport užima?
+
 # 2023-10-09
 * Ar JS yra deconstructorius?
 * Aną paskaitą mokėmės išskaidyti vizualų tinklalapį į sudarančius blokus, o šiuos į elementus. Ar teisingai manau, kad greičiausiai išmokti front-endo ir būtų toks būdas. Imti puslapio nuotrauką ir bandyti iš pagrindų jį sukurtį?
