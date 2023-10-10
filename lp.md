@@ -1,3 +1,13 @@
+# 2023-10-10
+1. display: inline-block  kodel padalinus i du stulpelius po 30% ir 70% netelpa i viena eilute? (skirstant po 30% ir 69% OK). Kur isnaudojamas tas 1%, kad netilpo du i viena eilute? su float-rigth ir float-left 30% ir 70%   vienoje eiluteje.
+2. margin-left: 20%; margin-right: 20%; margin-top: 17%; margin-bottom: 17%;"  --> ar yra trumpesnis aprasymas?
+3. Ar spalvu kodai verti atskiro demesio ir isidemejimo, kai galima pasirinkti spalvas tiesiog is akies?
+
+
+![image](https://github.com/front-end-by-rimantas/46-grupe-klausimai/assets/130826728/5c183eb3-ed02-46ad-8e86-b7b6df7cddee)
+
+
+
 # 2023-10-05
 1. Priminimas sau:
 pvz noreciau pasakyti, kad jei x arba y === 0 tai return 0.
