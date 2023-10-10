@@ -1,4 +1,4 @@
-# 2023-10-09
+# 2023-10-10
 - Kada tikslinga CSS naudoti universal sector (*)? Be šrifto ir fono spalvos nelabai sugalvoju kitų pavyzdžių.
 - Koks praktinis skirtumas tarp HTML ir XHTML?
 - Ar kalbėsime apie tai kaip į title įtraukti logotipą?
