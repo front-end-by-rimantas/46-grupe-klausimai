@@ -1,10 +1,12 @@
-# - 2023-10-11
+# 2023-10-12
+- 404 – puslapis neegzistuoja. Kokie dar yra blogi serverio atsakymai? 
+- Sakėte, kad šiuo metu naudojamas HTML 5. Kada bus HTML 6?
+# 2023-10-11
 - Ar objektų vieta priklauso nuo ekrano skiriamosios gebos ir ekrano orientacijos??
 - Nuotraukos dydis yra 300*500 pikselių. Fiksuotas. Kaip jis bus rodomas skirtingų įrenginių ekranuose?
 # 2023-10-10
 - Kodėl "Math.round(const * 100) / 100"; suteikia teisingą vertę, o "Math.round(const)" neteisingas.
 - Ar galima pakeisti projekto viešumą per VS Code? Kelias dienas dirbau privačiu režimu to nepastebėdamas. My fault! 
-
 # 2023-10-09
 - Savarankiško darbo metu radau rekomendaciją vardinant kintamuosius naudoti „kuprotąjį registrą“. Paaiškink kodėl?
 - Sužinojau, kad yra komanda setTimeout (Alarm, 600 000). Tiesiog įdomu, kur „Javascript“ atima savo laiką? Naudoja savo laikmatį? Serverio laikrodis?
@@ -12,7 +14,6 @@
 - Paaiškinkite ternary šį punktą: "const q6 = 0 > 1 ? 2 ? 3 : 4 : 5 ? 6 : 7."
   kaip supratau "0 > 1" return false, o "0 < 1" true bet kaip logiškai eiti toliau?
 - Ar kodams rašyti naudojate pieštuką ir bloknotą?
-
 # 2023-10-03
 - Codevars puslapyje aptikau tokį kodo: "animal = o => `This ${o.color} ${o.name}..."  Ar tai gera praktika?
 - Kokio ilgio turėtų būti vienas failas, kad būtų patogu dirbti? Kiek eilučių? Musu maksimali failas dabar apie 250 eiles ir 6 KB. Arba tai priklauso nuo žmogaus 
