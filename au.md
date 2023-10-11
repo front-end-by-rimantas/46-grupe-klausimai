@@ -1,6 +1,7 @@
 
 # 2023-10-12
-- kol kas nėra klausimu 😊
+- Kai tinklalapi priartinus viskas išsimieto tekstas ir t.t. kaip padaryti, kad nebutu išsimetitas
+- Inrasius i <main ...display: inline-block;"> niekas nepasikeičia, ar ir neturi faktiškai kažkas matitis (display: inline-block)?
 # 2023-10-11
 - kol kas nėra klausimu 😊
 # 2023-10-10
