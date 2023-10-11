@@ -1,3 +1,6 @@
+# 2023-10-11
+* Kaip veikia stiliaus position property. Ar nustatant šio property vertes, priverčiame keisti pozicionavimą tik tėvinio el atžvilgiu, ar galima ir brolinių el atžvilgiu? T. Y. Ar galima šia savybe kažkaip pritaikyti elementų išstumdymui. 
+* 
 # 2023-10-10
 * Ar nebūtų geriau "\<main\>" tagui išstumdyti naudoti vh ir vw, vietoj %? Ar kadangi main yra html vaikas, html vistiek visa viewport užima?
 * Kaip su for ciklu galima itteruoti per spalvų palete nuo baltos #000000 iki juodos #FFFFFF? Kaip iteruoti vieną atspalvį (tikriausiai čia jau ateis Hue kažkur į pagalbą). Ir kokios yra spalvos kryptinės fillinimo f-ijos. Buvau girdėjęs žodelį gradientai, tai čia jaučiu apie tą patį... 
