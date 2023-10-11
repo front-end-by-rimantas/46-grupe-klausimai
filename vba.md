@@ -1,3 +1,6 @@
+# 2023-10-11
+-Ar galima HLML sukodinsus puslapius perziureti, neinstaliavus dead-server?
+
 # 2023-10-02
 -Kol kas nepavyksta perprasti CodeWars rasymo logikos :(
 
