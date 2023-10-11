@@ -1,3 +1,8 @@
+
+# 2023-10-12
+- kol kas nėra klausimu 😊
+# 2023-10-11
+- kol kas nėra klausimu 😊
 # 2023-10-10
 - kol kas nėra klausimu 😊
 # 2023-10-09
