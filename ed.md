@@ -1,3 +1,7 @@
+2023-10-11
+1.Ar naudosim, kad tekstas butu viduryje <div align="center">?(internete uzmaciau)
+2. Ar dazniau naudosim html matavimo vienetus % ar px?
+
 2023-10-03
 1. Kodel per codewars daznai naudojamas var? ar cia tik kaip pavyzdys? 
 2. Ar po kiekvienos paskaitos reikia Submit?
