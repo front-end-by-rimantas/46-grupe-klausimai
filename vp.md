@@ -1,6 +1,6 @@
 # - 2023-10-11
 - Ar objektų vieta priklauso nuo ekrano skiriamosios gebos ir ekrano orientacijos??
-
+- Nuotraukos dydis yra 300*500 pikselių. Fiksuotas. Kaip jis bus rodomas skirtingų įrenginių ekranuose?
 # 2023-10-10
 - Kodėl "Math.round(const * 100) / 100"; suteikia teisingą vertę, o "Math.round(const)" neteisingas.
 - Ar galima pakeisti projekto viešumą per VS Code? Kelias dienas dirbau privačiu režimu to nepastebėdamas. My fault! 
