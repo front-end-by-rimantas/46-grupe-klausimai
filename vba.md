@@ -1,5 +1,6 @@
 # 2023-10-11
 -Ar galima HLML sukodintus puslapius perziureti, neinstaliavus dead-server? Gal yra kokie kiti variantai?
+- Kas nutiktu, jei pradejus projekta susiinstaliuotume ne tik dead-server, bet paleistume bendrini "npm i"? 
 
 
 # 2023-10-02
