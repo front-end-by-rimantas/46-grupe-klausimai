@@ -1,4 +1,7 @@
 #  2023-10-09
+- Kokie nuotrauku jpg ir png formatų skirtumai ir panaudojimas HTMLe?
+
+#  2023-10-09
 - HTML tinklapiu analizes prasme ir reiksme?
 
 #  2023-10-08 

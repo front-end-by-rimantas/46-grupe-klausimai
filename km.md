@@ -1,3 +1,8 @@
+# 2023-10-10
+- Kada tikslinga CSS naudoti universal sector (*)? Be šrifto ir fono spalvos nelabai sugalvoju kitų pavyzdžių.
+- Koks praktinis skirtumas tarp HTML ir XHTML?
+- Ar kalbėsime apie tai kaip į title įtraukti logotipą?
+  
 # 2023-10-09
 - Ar grįžę prie JS dar kalbėsime apie cookies?
 - Ar vartotojo input'ui naudosime JS prompt funkciją, ar HTML elementus? Ar viską kartu? Ir kuris iš šių variantų yra dažniausiai taikomas?
