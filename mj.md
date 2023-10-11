@@ -1,3 +1,8 @@
+#  2023-10-11
+- HTML ufo projekte bandant padidinti vaizda dideja tik raides, nuotrauka lieka nepakitusi. Problema?
+
+#  2023-10-10
+
 #  2023-10-09
 - Kokie nuotrauku jpg ir png formatų skirtumai ir panaudojimas HTMLe?
 
