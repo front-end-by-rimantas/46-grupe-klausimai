@@ -1,3 +1,7 @@
+# 2023-10-11
+1. faviconu kodai buna pateikti  kaip free internete. O kaip ja ideti i savo puslapi? reikia linka tame puslapyje dar iskapstyti? :D  <i class="fi fi-rr-shopping-bag"></i>
+2. galimos neigiamos margin padding reiksmes. Kaip ir nelogiska, bet elementai juda. Gali prisikviesti arciau. Naudoti ar geriau kitaip suartinti elementus? :)
+
 # 2023-10-10
 1. display: inline-block  kodel padalinus i du stulpelius po 30% ir 70% netelpa i viena eilute? (skirstant po 30% ir 69% OK). Kur isnaudojamas tas 1%, kad netilpo du i viena eilute? su float-rigth ir float-left 30% ir 70%   vienoje eiluteje.
 2. margin-left: 20%; margin-right: 20%; margin-top: 17%; margin-bottom: 17%;"  --> ar yra trumpesnis aprasymas?
