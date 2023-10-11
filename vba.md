@@ -1,5 +1,6 @@
 # 2023-10-11
--Ar galima HLML sukodinsus puslapius perziureti, neinstaliavus dead-server? Gal yra kokie kiti variantai?
+-Ar galima HLML sukodintus puslapius perziureti, neinstaliavus dead-server? Gal yra kokie kiti variantai?
+
 
 # 2023-10-02
 -Kol kas nepavyksta perprasti CodeWars rasymo logikos :(
