@@ -1,3 +1,8 @@
+# 2023-10-11
+- Panašu, kad su CSS tą patį rezultatą galima gauti skirtingais būdais. Ar visada yra taisyklės ką geriau pasirinkti, ar daug kas tampa tik įpročio reikalas?
+- Flexbox atrodo daugeliu atvejų naudingas, apie jį plačiau ateityje?
+- CSS turi labai daug skirtingų parametrų, ar verta skirti daug laiko kiekvieno nagrinėjimui, ar yra sąrašas esminių, kurių užtektų didžiajai daugumai gyvenimo atvejų?
+- 
 # 2023-10-10
 - Kada tikslinga CSS naudoti universal sector (*)? Be šrifto ir fono spalvos nelabai sugalvoju kitų pavyzdžių.
 - Koks praktinis skirtumas tarp HTML ir XHTML?
