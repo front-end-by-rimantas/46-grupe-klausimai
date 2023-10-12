@@ -1,5 +1,5 @@
 
-# 2023-10-11
+# 2023-10-12
 - kaip narsykles randa ir atvaizduoja HTML parengtus puslapius?
 
 #  2023-10-11
