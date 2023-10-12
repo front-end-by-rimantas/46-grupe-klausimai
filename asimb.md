@@ -1,3 +1,11 @@
+# 2023-10-11
+- Ar galima githube deploy'inti kūrinius su db?
+- Ar galima githube deployinti kūrinius iš private repo?
+- Gal kokią rekomendaciją MD failų peržiūrai ir spausdinimui Windows aplinkai?
+
+# 2023-10-10
+- Ką reiškia "callback" funkcija
+
 # 2023-10-09
 - Kaip dead server priversti stebėti kitą failą nei index.html
 - Ką stebi dead server? Vieną failą, visus projekto failus (be išimčių)?
