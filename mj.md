@@ -1,6 +1,9 @@
 
 # 2023-10-12
 - kaip narsykles randa ir atvaizduoja HTML parengtus puslapius?
+- kaip is VSC rasti/atsidaryti savo sukurta internetini puslapi ji uzdarius? Bandziau, nenori atsidaryti su "save" VSC.
+- kaip pakeisti naudojama narsykle darbui su HTML, kai naudoju kelias?
+- kodel analize atliekate narsykleje per paskaita "incognito" rezimu.
 
 #  2023-10-11
 - HTML ufo projekte bandant padidinti vaizda dideja tik raides, nuotrauka lieka nepakitusi. Problema?
