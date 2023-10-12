@@ -1,5 +1,7 @@
 # 2023-09-12
-Spalvos turi savo skaitmenini standartą sRGB, kaip parinkti nustatymus taip, kad užsakovas matytu savo kompiuteri tokios pačios spalvos arba labai arti tiesos jos kaip mato savo kompe programuotojas / dizaineris?
+1. Spalvos turi savo skaitmenini standartą sRGB, kaip parinkti nustatymus taip, kad užsakovas matytu savo kompiuteri tokios pačios spalvos arba labai arti tiesos jos kaip mato savo kompe programuotojas / dizaineris?
+2. Kaip įkelti nuotrauką į puslapi neprarandant nuotraukos kokybės ir koks geriausias formatas?
+3. Jeigu nuotrauka įkelta į svetaine per TVS bet po update/refresh jos nesimato svetainėje kur ieškoti problemą ar tai klaida front-end'o ar back-end'o?
 
 # 2023-09-27
 Klausymai:
