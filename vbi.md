@@ -1,5 +1,5 @@
 # 2023-09-12
-Spalvos turi savo skaitmenini standartą SRGB, bet problema kaip parinkti nustatymus taip kad užsakovas matytu taip pat spalvos arba labai arti tiesos kaip mato programuotojas?
+Spalvos turi savo skaitmenini standartą SRGB, kaip parinkti nustatymus taip, kad užsakovas matytu tokios pačios spalvos arba labai arti tiesos jos kaip mato programuotojas / dizaineris?
 
 # 2023-09-27
 Klausymai:
