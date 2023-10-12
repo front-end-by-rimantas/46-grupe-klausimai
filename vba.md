@@ -1,3 +1,6 @@
+# 2023-10-12
+-Kaip pakeisti, kad codinamas puslapis automatiskai atsidarytu Chrome, o ne Firefox?
+
 # 2023-10-11
 -Ar galima HLML sukodintus puslapius perziureti, neinstaliavus dead-server? Gal yra kokie kiti variantai?
 - Kas nutiktu, jei pradejus projekta susiinstaliuotume ne tik dead-server, bet paleistume bendrini "npm i"? 
