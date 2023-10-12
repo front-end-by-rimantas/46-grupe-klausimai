@@ -1,3 +1,7 @@
+
+# 2023-10-11
+- kaip narsykles randa ir atvaizduoja HTML parengtus puslapius?
+
 #  2023-10-11
 - HTML ufo projekte bandant padidinti vaizda dideja tik raides, nuotrauka lieka nepakitusi. Problema?
 
