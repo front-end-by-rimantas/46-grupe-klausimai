@@ -1,3 +1,6 @@
+# 2023-09-12
+Spalvos turi savo skaitmenini standartą, bet problema kaip parinkti nustatymus taip kad užsakovas matytu taip pat spalvos arba labai arti tiesos kaip mato programuotojas?
+
 # 2023-09-27
 Klausymai:
 1. Nodemon vs Code Runner? 
