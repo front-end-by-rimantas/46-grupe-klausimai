@@ -1,3 +1,5 @@
+# 2023-10-13
+jei yra galimybe su inspect matyti jau sukurto puslapio tagus, ar yra technines galimybes tiesiog patinkamo puslatio HTML tagus kipijuoti adaptuojant info apgal save, sukurti savo tinklati? Pazeistas kureju teises?
 
 # 2023-10-12
 - kaip narsykles randa ir atvaizduoja HTML parengtus puslapius?
