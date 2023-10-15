@@ -1,3 +1,7 @@
+# 2023-10-15
+- Savaitgalį eksperimentavau su Manto užduotimi. Nusprendžiau pridėti interaktyvų duomenų įvedimą per iššokantįjį langą puslapyje, o ne „Javascript“ kodu.  Analizuodamas kodą nustebau, kad radau "<!-- Code injected by dead-server -->" KKodėl jis prideda savo kodą į mūsų puslapį?
+ 
+
 # 2023-10-12
 - 404 – puslapis neegzistuoja. Kokie dar yra blogi serverio atsakymai? 
 - Sakėte, kad šiuo metu naudojamas HTML 5. Kada bus HTML 6?
