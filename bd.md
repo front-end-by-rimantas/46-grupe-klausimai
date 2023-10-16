@@ -1,3 +1,13 @@
+# 2023-10-16
+*
+*
+*
+
+# 2023-10-12
+* Paskaitoje minėjote, kad server side ar mato, kad modifikuojame kodą per "inspectą" labai priklauso nuo svetainės. Bet tuo pačiu inspectas sakėte, kad yra tiktai naršyklės laikinoje atmintyje. Tai jeigu vis dėlto yra galimybė tam tikroms svetainėms sekti tokia mūsų veiką, tai kokiu būdu? Išsaugo mūsų kompe tam tikrus logus?
+* 2 klausimas į tą pačią temą. Ar eina uždrausti naršyklėms naudoti inspect?
+* 3 klausimas. į panašią temą. Kažkada 15min buvo toks bugas, kad kai jie pradėjo naudoti mokamą turinį, rodydavo tik kelias eilutes teksto, tačiau per inspectą, arba select-all => copy => paste, galėdavai skaityti mokamą turinį. Dabar jau jie susitvarkė. Tai čia kažkoks panašus pvz, kaip galima uždrausti inspectinti turinį? 
+
 # 2023-10-11
 * Kaip veikia stiliaus position property. Ar nustatant šio property vertes, priverčiame keisti pozicionavimą tik tėvinio el atžvilgiu, ar galima ir brolinių el atžvilgiu? T. Y. Ar galima šia savybe kažkaip pritaikyti elementų išstumdymui. 
 * ar html turi galimybe matyti, kad įrenginys buvo rotate'intas? Ar tiesiog pagal santikinius vienetus persistumdo viskas? 
