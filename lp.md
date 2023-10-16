@@ -1,3 +1,6 @@
+# 2023-10-16
+1. a elemento hoverinimas, kuomet a atvaizduotas kaip mygtukas, css inline -> background color nustatyta. Hover "neveikia". cia del inline galingumo ar ieskot kitu kodel?
+
 # 2023-10-11
 1. faviconu kodai buna pateikti  kaip free internete. O kaip ja ideti i savo puslapi? reikia linka tame puslapyje dar iskapstyti? :D  <i class="fi fi-rr-shopping-bag"></i>
 2. galimos neigiamos margin padding reiksmes. Kaip ir nelogiska, bet elementai juda. Gali prisikviesti arciau. Naudoti ar geriau kitaip suartinti elementus? :)
