@@ -1,6 +1,7 @@
 # 2023-10-15
 - Savaitgalį eksperimentavau su Manto užduotimi. Nusprendžiau pridėti interaktyvų duomenų įvedimą per iššokantįjį langą puslapyje, o ne „Javascript“ kodu.  Analizuodamas kodą nustebau, kad radau "<!-- Code injected by dead-server -->" Kodėl jis prideda savo kodą į mūsų puslapį?
-- Ar galima eiti atgal, jei siunčiamas neteisingas i Pullrequest?
+- Ar galima eiti atgal, jei siunčiamas klaidingas faila i Pullrequest?
+- Ar galima kitiems vartotojams priskirti teises redaguoti saugykloje esančius failus.
 # 2023-10-12
 - 404 – puslapis neegzistuoja. Kokie dar yra blogi serverio atsakymai? 
 - Sakėte, kad šiuo metu naudojamas HTML 5. Kada bus HTML 6?
