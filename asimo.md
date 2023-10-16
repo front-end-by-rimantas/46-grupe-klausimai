@@ -1,4 +1,8 @@
-#2023-10-08
+#2023-10-16
+1: Koks skirtumas tarp www.google.lt ir google.lt ?
+2: Kaip istrinti nereikalinga projekta is github?
+
+2023-10-08
 Kada html + css? :)
 
 2023-10-03
