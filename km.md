@@ -1,3 +1,8 @@
+# 2023-10-16
+- Situacija: iš main branch sukurtas naujas branch ir pradėti darbai, tačiau į main branch "atkeliauja" pakeitimai kuriuos būtų geriau turėti ir darbiniame branch. Koks sprendimas?
+- Kas yra Git stash?
+- Koks skirtumas tarp branch ir fork?
+
 # 2023-10-11
 - Panašu, kad su CSS tą patį rezultatą galima gauti skirtingais būdais. Ar visada yra taisyklės ką geriau pasirinkti, ar daug kas tampa tik įpročio reikalas?
 - Flexbox atrodo daugeliu atvejų naudingas, apie jį plačiau ateityje?
