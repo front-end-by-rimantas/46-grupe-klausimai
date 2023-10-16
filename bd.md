@@ -1,7 +1,7 @@
 # 2023-10-16
-*
-*
-*
+* Minėjote, kad prieš merginant iš side-branch į main, dažniausiai būna kažkas atsakingas už to (merge) review. Ar git platformoje, tas žmogus gali tik leisti atitinkamiems branchams mergintis, ar ir redaguotį pateiktą kodą (papildyti kodą).
+* Projektų valdymo metodologijos. Ką apie jas mums svarbu žinoti. Ir ar tai medžiaga, kuri labiau reikalinga projektų valdytojui.
+* Tiksliai žinau, kad programuoti back-endą su duombazėmės, github nedraudžia. O kaip tada, "nedamuštas" produktas pateikiamas užsakovams? Tokiu atveju kodas deploy'namas ne į git live serverį, o jau į specializuotą serverį?
 
 # 2023-10-12
 * Paskaitoje minėjote, kad server side ar mato, kad modifikuojame kodą per "inspectą" labai priklauso nuo svetainės. Bet tuo pačiu inspectas sakėte, kad yra tiktai naršyklės laikinoje atmintyje. Tai jeigu vis dėlto yra galimybė tam tikroms svetainėms sekti tokia mūsų veiką, tai kokiu būdu? Išsaugo mūsų kompe tam tikrus logus?
