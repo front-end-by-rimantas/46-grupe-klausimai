@@ -1,3 +1,6 @@
+# 2023-10-13
+- Kaip serveriui instruktuoti, kad naudotų ufo kaip 404 klaidos puslapį?
+
 # 2023-10-11
 - Ar galima githube deploy'inti kūrinius su db?
 - Ar galima githube deployinti kūrinius iš private repo?
