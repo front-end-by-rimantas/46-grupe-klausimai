@@ -1,3 +1,5 @@
+# 2023-10-17
+- kol kas nėra klausimu 😊
 # 2023-10-16
 - Kaip reiktu spresti ši uždavini?
 - https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript
