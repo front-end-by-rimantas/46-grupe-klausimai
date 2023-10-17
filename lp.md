@@ -1,3 +1,6 @@
+# 2023-10-17
+1. Merge  confliktas. Spresti konflikta online-githube ar vsCode?
+
 # 2023-10-16
 1. a elemento hoverinimas, kuomet a atvaizduotas kaip mygtukas, css inline -> background color nustatyta. Hover "neveikia". cia del inline galingumo ar ieskot kitu kodel?
 
