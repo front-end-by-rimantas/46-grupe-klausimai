@@ -1,3 +1,7 @@
+# 2023-10-17
+1. Kada yra naudojami `EM` ir `REM` vienetai?
+2. Ar rasant `css` geriau naudoti viena dideli css fila ar geriau iskirstyti i daugiau?
+
 # 2023-10-10
 1. Ar gera praktika naudoti `display:flex`, norint centruoti elementus?
 2. Ar yra kazkokia nauda palikti default `box-sizing : content-box?` Ar geriau visada nudoti `border-box`?
