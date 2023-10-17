@@ -1,3 +1,6 @@
+# 2023-10-16
+- kaip padaryt lėčiau slenkančio fono efektą html + css? 
+
 # 2023-10-13
 - Kaip serveriui instruktuoti, kad naudotų ufo kaip 404 klaidos puslapį?
 
