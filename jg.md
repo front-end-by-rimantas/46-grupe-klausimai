@@ -1,6 +1,7 @@
 # 2023-10-17
 1. Kada yra naudojami `EM` ir `REM` vienetai?
 2. Ar rasant `css` geriau naudoti viena dideli css fila ar geriau iskirstyti i daugiau?
+3. Ar rasant `html` + `css` yra naudojami `DevTools` norint matyti ir lengviau suprasti kas vyksta browseri?
 
 # 2023-10-10
 1. Ar gera praktika naudoti `display:flex`, norint centruoti elementus?
