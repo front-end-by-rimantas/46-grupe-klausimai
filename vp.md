@@ -1,4 +1,7 @@
-# 2023-10-15
+# 2023-10-17
+- Kaip organizuoti kelių projektų darbą viename vietiniame localhost?
+
+# 2023-10-16
 - Savaitgalį eksperimentavau su Manto užduotimi. Nusprendžiau pridėti interaktyvų duomenų įvedimą per iššokantįjį langą puslapyje, o ne „Javascript“ kodu.  Analizuodamas kodą nustebau, kad radau "<!-- Code injected by dead-server -->" Kodėl jis prideda savo kodą į mūsų puslapį?
 - Ar galima eiti atgal, jei siunčiamas klaidingas faila i Pullrequest?
 - Ar galima kitiems vartotojams priskirti teises redaguoti saugykloje esančius failus.
