@@ -1,6 +1,6 @@
 # 2023-10-18
 - Pagal ką css faile selektoriui dėliojamas taisyklių eiliškumas? Pvz.: Nusprendus papildyti esamas taisykles nauja, kaip žinoti ar ją rašyti apačioje, viršuje, ar įterpti tarp kažkurių esamų taisyklių?
-- 
+
 # 2023-10-16
 - (Jau atsakytas)Situacija: iš main branch sukurtas naujas branch ir pradėti darbai, tačiau į main branch "atkeliauja" pakeitimai kuriuos būtų geriau turėti ir darbiniame branch. Koks sprendimas?
 - Kas yra Git stash?
