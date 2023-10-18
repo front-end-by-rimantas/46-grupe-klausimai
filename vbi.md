@@ -1,6 +1,6 @@
 # 2023-10-18
 1. Package.jason'e reikia nurodyti port'ą, kad galima būtų peržiūreti pvz.: port=8888; jeigu toks port'as yra ir kitame projekte, bei atidaryti tuos projektus vienu metų bet per skirtingus browser'ius ar jie atsidarys kiekviename browser'ije ar vistiek šite projektai pjausis tarpusavije lyg būtų atidaryti viename browser'ije?
-2. Jūsų readme.md failo versija : Site published at: */ https://front-end-by-rimantas.github.io/46-grupe-real-estate/ bet jeigu nurodau vietoje by-rim -> vadimstarton, Authors -> irgi pakeičiu į Vadim: [Github](/* https://github.com/VadimStarton */) tai reiškia kad aš nuplaginau darbą? :) Suprantoma kad mokymo metu kadangi originalas pas jus, tai mūsų darbai kaip ir klonas padarytas pagal pvz. kaip problemos ir nėra (kol nėra kom. naudojimo*), bet kaip vis dėl to reikėtu nurodyti/sukurti teisingą link'ą readme.md failui (pamečiau tarp daugumos video)?
+2. Jūsų readme.md failo versija: Site published at: /*https://front-end-by-rimantas.github.io/46-grupe-real-estate*/ bet jeigu nurodau vietoje by-rim -> vadimstarton, Authors -> irgi pakeičiu į Vadim: (/* https://github.com/vadimstarton*/) nuplaginau darbą? :) Suprantoma kad mokymo metu kadangi mūsų darbai kaip ir klonai sukurti pagal pvz.  problemos kaip ir nėra (kol nėra kom. naudojimo*), bet kaip vis dėl to reikėtu nurodyti/sukurti teisingus link'us readme.md failui (pamečiau tarp daugumos video)?
  
 
 
