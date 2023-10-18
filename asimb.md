@@ -1,3 +1,8 @@
+# 2023-10-17
+- kas yra site.webmanifest?
+- kaip dirbant su branchu sužinoti kad maine yra atnaujinimų ir kad reikia atsinaujinti savo branch source?
+- Ar nėra pavojaus, kad naujinant branchą iš main ant mano darbo užrašys atnaujintą turinį iš main?
+
 # 2023-10-16
 - kaip padaryt lėčiau slenkančio fono efektą html + css? 
 
