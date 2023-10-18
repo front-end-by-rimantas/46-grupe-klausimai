@@ -1,5 +1,5 @@
 # 2023-10-16
-- Situacija: iš main branch sukurtas naujas branch ir pradėti darbai, tačiau į main branch "atkeliauja" pakeitimai kuriuos būtų geriau turėti ir darbiniame branch. Koks sprendimas?
+- (Jau atsakytas)Situacija: iš main branch sukurtas naujas branch ir pradėti darbai, tačiau į main branch "atkeliauja" pakeitimai kuriuos būtų geriau turėti ir darbiniame branch. Koks sprendimas?
 - Kas yra Git stash?
 - Koks skirtumas tarp branch ir fork?
 
