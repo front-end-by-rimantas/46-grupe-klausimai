@@ -1,5 +1,5 @@
 # 2023-10-18
-1. Package.jason reikia nurodyti port'ą, kad galima būtų peržiūreti projektą pvz. port=8888; jeigu toks port'as yra ir kitame projekte, bei atidaryti tuos projektus vienu metų per skirtingus browser'ius ar jie atsidarys ar vistiek pjausis tarpusavije?
+1. Package.jason'e reikia nurodyti port'ą, kad galima būtų peržiūreti pvz.: port=8888; jeigu toks port'as yra ir kitame projekte, bei atidaryti tuos projektus vienu metų per skirtingus browser'ius ar jie atsidarys kiekviename browser'ije ar vistiek projektai pjausis tarpusavije?
 
 
 # 2023-10-12
