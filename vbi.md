@@ -1,4 +1,8 @@
-# 2023-09-12
+# 2023-10-18
+1. Package.jason reikia nurodyti port'ą, kad galima būtų peržiūreti projektą pvz. port=8888; jeigu toks port'as yra ir kitame projekte, bei atidaryti tuos projektus vienu metų per skirtingus browser'ius ar jie atsidarys ar vistiek pjausis tarpusavije?
+
+
+# 2023-10-12
 1. Spalvos turi savo skaitmenini standartą sRGB, kaip galima parinkti nustatymus taip, kad užsakovas matytu spavos svetainėje tokios pačios spalvos arba labai arti tiesos  kaip jos mato savo kompe/naršyklėje programuotojas / dizaineris, (t.y prof. nekalibruojant monitorius nes tai tikrai nelabai prasminga paprastiems vartuotojams išskirus tu 2-jų dizaineriu dirbančius vienoje spausdikloje)?
 2. Kaip įkelti nuotrauką į puslapi neprarandant nuotraukos kokybės ir koks geriausias formatas?
 3. Jeigu nuotrauka įkelta į svetaine per TVS bet po update/refresh jos nesimato svetainėje kur ieškoti problemą ar tai klaida front-end'e ar back-end'e?
