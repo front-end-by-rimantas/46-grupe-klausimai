@@ -1,5 +1,5 @@
 # 2023-10-19
-- ar butu galina per tinkllapi koreguoti 3D modelio matmenis ir automati6kai ji sugeneruotu ir atvaizduotu klientui, failu pav. (SLDPRT, SLDASM) failai suikurti su SolidWorks programa
+- ar būtu galina per tinkllapi koreguoti 3D modelio matmenis ir automatiškai ji sugeneruotu ir atvaizduotu klientui, failu pav. (SLDPRT, SLDASM) failai suikurti su SolidWorks programa
 # 2023-10-18
 - kol kas nėra klausimu 😊
 # 2023-10-17
