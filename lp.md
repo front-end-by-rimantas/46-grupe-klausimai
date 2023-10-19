@@ -1,6 +1,6 @@
 # 2023-10-18
 1. Elemento hoverinimas su visais borderiais ir padding. Kaip pašalinti vibraciją - elementų stumdymasi? 
-
+2. Kodel ID CSS'e naudoti taip blogai? 
 # 2023-10-17
 1. Merge  confliktas. Spresti konflikta online-githube ar vsCode?
 
