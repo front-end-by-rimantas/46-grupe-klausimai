@@ -1,3 +1,6 @@
+# 2023-10-20
+- Ar lorem ipsum gali sugeneruoti ne tik nurodytą žodžių skaičių, bet ir pagal eilučių ar stulpelių kiekį? Ar tokiu atveju tiesiog "iš akies" įrašomas didelis žodžių skaičius?
+  
 # 2023-10-18
 - Pagal ką css faile selektoriui dėliojamas taisyklių eiliškumas? Pvz.: Nusprendus papildyti esamas taisykles nauja, kaip žinoti ar ją rašyti apačioje, viršuje, ar įterpti tarp kažkurių esamų taisyklių?
 
