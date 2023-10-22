@@ -1,6 +1,8 @@
+# 2023-10-22
+- Kodėl „Favicon“ turime įdėti į svetainės šaknį? Kodėl neužtenka, kad jie yra aplanke? Dėl to sugaišta daug laiko
+
 # 2023-10-21
 - Sveiki. Galbūt jau klausėte. Ar yra HTML/CSS pilkų atspalvių paletė? Kaip filme? Nes visos pilkos, kurias renkuosi, iš tikrųjų yra spalvotos!
-
 # 2023-10-17
 - Kaip organizuoti kelių projektų darbą viename vietiniame localhost?
 - Kaip UX specialistas, kaip manote apie dekoracijas svetainėje? Išskleidžiamieji meniu, skaidrių demonstracijos, foninė muzika svetainėje ir kt.
