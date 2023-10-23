@@ -1,4 +1,6 @@
-# 2023-10-12
+# 2023-10-23
+
+# 2023-10-20
 -Kaip pakeisti, kad codinamas puslapis automatiskai atsidarytu Chrome, o ne Firefox?
 
 # 2023-10-11
