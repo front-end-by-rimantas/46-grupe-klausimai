@@ -1,3 +1,10 @@
+# 2023-10-20
+- Kaip dažnai imgbot prasineša pro repozitorijas? Po savaitgalio vienas repo peržiūrėtas, kiti ne.
+
+# 2023-10-18
+- Ar gali būti kad iš github nuklonuotame projekte package.json faile bus koks nors custom made dependancy, kurio nepavyks parsitempti per npm i? Ką tada daryt?
+- Github Issues sukurti labelsai galioja tik projekto ribose? Ar galima turėt savo templeitą kitiems projektams. Pvz. Heder, Footer, Hero.
+
 # 2023-10-17
 - kas yra site.webmanifest?
 - kaip dirbant su branchu sužinoti kad maine yra atnaujinimų ir kad reikia atsinaujinti savo branch source?
