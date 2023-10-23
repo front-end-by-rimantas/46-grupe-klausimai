@@ -1,10 +1,11 @@
-# 2023-10-23
+# 2023-10-22
+Nuotrauką ar užrašus sukelia vieną po kitu, ką daryti, kad sukeltų vienoje linijoje?
 
 # 2023-10-20
 -Kaip pakeisti, kad codinamas puslapis automatiskai atsidarytu Chrome, o ne Firefox?
 
 # 2023-10-11
--Ar galima HLML sukodintus puslapius perziureti, neinstaliavus dead-server? Gal yra kokie kiti variantai?
+-Ar galima HTML sukodintus puslapius perziureti, neinstaliavus dead-server? Gal yra kokie kiti variantai?
 - Kas nutiktu, jei pradejus projekta susiinstaliuotume ne tik dead-server, bet paleistume bendrini "npm i"? 
 
 
