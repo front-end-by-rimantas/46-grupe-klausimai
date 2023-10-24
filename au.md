@@ -1,3 +1,7 @@
+# 2023-10-24
+- kol kas nėra klausimu 😊
+# 2023-10-23
+- kol kas nėra klausimu 😊
 # 2023-10-19
 - ar būtu galina per tinkllapi koreguoti 3D modelio matmenis ir automatiškai ji sugeneruotu ir atvaizduotu klientui, failu pav. (SLDPRT, SLDASM) failai suikurti su SolidWorks programa
 # 2023-10-18
