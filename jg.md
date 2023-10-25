@@ -1,5 +1,5 @@
 # 2023-10-25
-1. Kada naudoti `<p>`, o kada `<label`?
+1. Kada naudoti `<p>`, o kada `<label>`?
 
 # 2023-10-18
 1. Kaip standartiskai yra sprendziami `merge conflict`?
