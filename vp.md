@@ -1,4 +1,4 @@
-#2023-10-24
+# 2023-10-24
 - Vakar pokalbio metu vienas iš dalyvių pastebėjo, kad aplanke panaudota daug CSS failų. Kokiais atvejais tai būtina? Kas yra viduje?
 
 # 2023-10-22
