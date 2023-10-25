@@ -1,3 +1,6 @@
+#2023-10-24
+- Vakar pokalbio metu vienas iš dalyvių pastebėjo, kad aplanke panaudota daug CSS failų. Kokiais atvejais tai būtina? Kas yra viduje?
+
 # 2023-10-22
 - Kodėl „Favicon“ turime įdėti į svetainės šaknį? Kodėl neužtenka, kad jie yra aplanke? Dėl to sugaišta daug laiko
 
