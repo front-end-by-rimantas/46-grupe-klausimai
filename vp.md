@@ -1,3 +1,5 @@
+# 2023-10-26
+- Kokie yra svetainės kūrimo etapai? Nes kaip suprantu, nors projektas "Real estate" baigtas, bet realiai baigtas tik maketavimas. Ir tokių maketais gali būti keli.
 # 2023-10-24
 - Vakar pokalbio metu vienas iš dalyvių pastebėjo, kad aplanke panaudota daug CSS failų. Kokiais atvejais tai būtina? Kas yra viduje?
 
