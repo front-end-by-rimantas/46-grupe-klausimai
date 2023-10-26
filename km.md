@@ -1,3 +1,6 @@
+# 2023-10-26
+- CSS variables - ar jie turi daug prasmės? Ir ar dažnai realiai naudojami?
+  
 # 2023-10-20
 - Ar lorem ipsum gali sugeneruoti ne tik nurodytą žodžių skaičių, bet ir pagal eilučių ar stulpelių kiekį? Ar tokiu atveju tiesiog "iš akies" įrašomas didelis žodžių skaičius?
   
