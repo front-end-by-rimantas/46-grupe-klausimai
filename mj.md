@@ -1,3 +1,16 @@
+# 2023-10-26
+- ....
+- ....
+# 2023-10-26
+# 2023-10-25
+# 2023-10-24
+# 2023-10-23
+# 2023-10-22
+# 2023-10-18
+# 2023-10-17
+# 2023-10-16
+# 2023-10-15
+
 # 2023-10-13
 jei yra galimybe su inspect matyti jau sukurto puslapio tagus, ar yra technines galimybes tiesiog patinkamo puslatio HTML tagus kipijuoti adaptuojant info apgal save, sukurti savo tinklati? Pazeistas kureju teises?
 
