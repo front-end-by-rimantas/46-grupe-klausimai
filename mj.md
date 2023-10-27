@@ -2,6 +2,7 @@
 - ....
 - ....
 # 2023-10-26
+- Git serveriu atvaizduojams HTML puslapis atvaiduoja sugriuvusi puslapio vaizda, tuo tarpu Cromas rodo, kaip tvarkinga. Galimos problemos?
 # 2023-10-25
 # 2023-10-24
 # 2023-10-23
