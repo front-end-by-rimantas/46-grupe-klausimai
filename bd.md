@@ -1,7 +1,9 @@
 # 2023-10-30
 * Beklaidžiojant apie css radau tokį css extension'ą Sass. Ar naudojamas praktikoje? Man pasirodė smagus įrankis. Ypač ta vieta, kai gali su import precursorium visą "šaiką" savybių perkelt į vieną selectorių.
 * Ar kursų metų dar apžvelgsim iframes. O Jeigu jau apžvelgsim, gal tuo pačiu ir position: sticky?.
-* 
+* Minėjote, kad id selectoriai realiai naudojami dėl JS. Ar klaidingai supratau, kad JS'e pasiimti elementus tik su ID? Nes gi galima visa krūva ir kitų būdų: pagal klasę, tagą ir t.t. Ar vis dėlto kažkurių iš šių vengti?
+* Jeigu jau JS'e parašysiu: ``` getElementsByTagName(<name>).addEventListener('click', function onClick() { // ---- } ``` Tai kas gausis? Aš ant vieno event listenerio "pakabinsiu" visus įmanomus elementus? Nebūna paskui, kad vieną klickini ir visi pagauti tagai atlieka užduotas f-ijas?
+* Jeigu vistik knieti su anksčiau minėtu event listeneriu apjungti visus minėtus tagus, gal paskui per kokį nors pointerį įmanoma išskaidyti funkcijas būtent clickinamui objektui? Nu nes kartais gal norisi sutaupyti vietos, ir nerašyti 20 panašių mygtukų, 20 event listenerių - čia grynai dėl "do not repeat yourself" principo.
 
 # 2023-10-16
 * Minėjote, kad prieš merginant iš side-branch į main, dažniausiai būna kažkas atsakingas už to (merge) review. Ar git platformoje, tas žmogus gali tik leisti atitinkamiems branchams mergintis, ar ir redaguotį pateiktą kodą (papildyti kodą).
