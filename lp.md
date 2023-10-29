@@ -1,6 +1,6 @@
 #2023-10-29
 1. Sukurus puslapi, kad ir kaip Real estate. Kaip toliau is meniu pereiti i kitus puslapius? dar vienas HTML ir sulinkinti?
-2. Is real estate pvz. Labai tvarkingu atveju (ne perfekcionistiniu ir ne lievu), kiek min branchu turetu buti sukurta?
+2. Is real estate pvz. Labai tvarkingu atveju (ne perfekcionistiniu ir ne lievu), kiek min branchu galejo buti sukurta?
 3. Kaip prikibdyti kelias img ant IMG, kad keiciant ekrano dydi nepabegtu prikibdytoju img pozicijos? pvz. road-map rodykles(IMG) ir hero img  vienam dive, ju tevas tas pats - position relative. Vaikai - hero img -       isdelioti position relative su top, right...road-map rodykles width nustatytas px ir su max ir su min. Ka dar cia padaryti? (https://laimalp.github.io/Collab-project/ )
 
  <div class="road-map-avatar-container">
