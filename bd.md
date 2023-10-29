@@ -1,3 +1,8 @@
+# 2023-10-30
+* Beklaidžiojant apie css radau tokį css extension'ą Sass. Ar naudojamas praktikoje? Man pasirodė smagus įrankis. Ypač ta vieta, kai gali su import precursorium visą "šaiką" savybių perkelt į vieną selectorių.
+* Ar kursų metų dar apžvelgsim iframes. O Jeigu jau apžvelgsim, gal tuo pačiu ir position: sticky?.
+* 
+
 # 2023-10-16
 * Minėjote, kad prieš merginant iš side-branch į main, dažniausiai būna kažkas atsakingas už to (merge) review. Ar git platformoje, tas žmogus gali tik leisti atitinkamiems branchams mergintis, ar ir redaguotį pateiktą kodą (papildyti kodą).
 * Projektų valdymo metodologijos. Ką apie jas mums svarbu žinoti. Ir ar tai medžiaga, kuri labiau reikalinga projektų valdytojui.
