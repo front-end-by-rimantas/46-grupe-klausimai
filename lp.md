@@ -1,3 +1,20 @@
+#2023-10-29
+1. Sukurus puslapi, kad ir kaip Real estate. Kaip toliau is meniu pereiti i kitus puslapius? dar vienas HTML ir sulinkinti?
+2. Is real estate pvz. Labai tvarkingu atveju (ne perfekcionistiniu ir ne lievu), kiek min branchu turetu buti sukurta?
+3. Kaip prikibdyti kelias img ant IMG, kad keiciant ekrano dydi nepabegtu prikibdytoju img pozicijos? pvz. road-map rodykles(IMG) ir hero img  vienam dive, ju tevas tas pats - position relative. Vaikai - hero img -       isdelioti position relative su top, right...road-map rodykles width nustatytas px ir su max ir su min. Ka dar cia padaryti? (https://laimalp.github.io/Collab-project/ )
+
+ <div class="road-map-avatar-container">
+                <p>You?</p>
+                <img src="./img/avatarai/Vector 1.svg" alt="road-map">
+                <div class="avatar-on-map-conteiner">
+                    <img class="avatar-item1" src="./img/avatarai/Ellipse 16.svg" alt="avatar2">
+                   < ..daug tokiu pat.. >
+                    <img class="avatar-item8" src="./img/avatarai/Ellipse 23.svg" alt="avatar2">
+                </div>
+![image](https://github.com/front-end-by-rimantas/46-grupe-klausimai/assets/130826728/4c436788-0473-4a48-9f14-585bd75b270a)
+
+
+
 # 2023-10-18
 1. Elemento hoverinimas su visais borderiais ir padding. Kaip pašalinti vibraciją - elementų stumdymasi? 
 2. Kodel ID CSS'e naudoti taip blogai? 
