@@ -1,3 +1,5 @@
+# 2023-11-03
+- Ar yra koks nors būdas stebėti, ar visi divai yra uždaryti html? Aš praleidau daug laiko, kad suprasčiau, kad kodas neveikia, nes div blokas nėra uždarytas.
 # 2023-10-26
 - Kokie yra svetainės kūrimo etapai? Nes kaip suprantu, nors projektas "Real estate" baigtas, bet realiai baigtas tik maketavimas. Ir tokių maketais gali būti keli.
 # 2023-10-24
