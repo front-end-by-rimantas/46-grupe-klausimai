@@ -1,3 +1,9 @@
+# 2023-11-03
+* Susidūrus su EventListeneriais, ir kai "klausai" 1 elemento, o modifikuoji f-unkcionalumą jame esančio - pagalvoji kas būtų, jei eventListeneriai būtų tiems elementams atskiri. Tai vienu paspaudimu aktyvuotusi abudu? Panagrinėjus temą internete plačiau susidūriau su savokomis propagation: bubbling ir capturing. Kaip ir aišku ką ten rašo, bet praktiškai - niekas neaišku. Gal galima plačiau?
+* Kai turi mygtuką pagamintą iš divų - jam uždėtas event listeneris - ir jį spaudai - bespaudant kartais suveikia šio div elemento, arba greta esančio div elemento selectinimas naršyklėje - t.y. jis pasižymi visas ir pasidaro mėlynas - ar įmanoma tokio funkcionalumo clickinamiems elementams atsisakyti, kad nedarkytų vaizdo?
+  [PVZ:1]([https://github.com/bartasd](https://github.com/bartasd/landing/blob/main/pvz/1.png))
+  [PVZ2]([https://github.com/bartasd](https://github.com/bartasd/landing/blob/main/pvz/2.png))
+
 # 2023-10-30
 * Beklaidžiojant apie css radau tokį css extension'ą Sass. Ar naudojamas praktikoje? Man pasirodė smagus įrankis. Ypač ta vieta, kai gali su import precursorium visą "šaiką" savybių perkelt į vieną selectorių.
 * Ar kursų metų dar apžvelgsim iframes. O Jeigu jau apžvelgsim, gal tuo pačiu ir position: sticky?.
