@@ -1,6 +1,8 @@
 # 2023-11-07
+
 - negaun atcakimo **neveikia**
 - JavaScript kalba:
+
 ```
 const meniuBtnEditOn = document.querySelector(".btnEditCancel > button");
 const meniuBtnEdit = document.querySelector(".edit");
