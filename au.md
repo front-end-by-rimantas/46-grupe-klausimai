@@ -39,10 +39,12 @@ meniuBtnEditOn.addEventListener("click", () => {
 });
 
 - HTML kalba:
-```<div class="btnEditCancel ">
-                        <button class="edit">Edit</button>
-                        <button class="cancel">Cancel</button>
-                    </div>```
+```
+<div class="btnEditCancel ">
+  <button class="edit">Edit</button>
+  <button class="cancel">Cancel</button>
+</div>
+```
 
 # 2023-11-06
 - kol kas nėra klausimu 😊
