@@ -1,5 +1,11 @@
+# 2023-11-06
+- kol kas nėra klausimu 😊
+
+# 2023-10-31
+- kol kas nėra klausimu 😊
 # 2023-10-30
 - kol kas nėra klausimu 😊
+
 # 2023-10-26
 - kol kas nėra klausimu 😊
 # 2023-10-25
@@ -8,6 +14,7 @@
 - kol kas nėra klausimu 😊
 # 2023-10-23
 - kol kas nėra klausimu 😊
+
 # 2023-10-19
 - ar būtu galina per tinkllapi koreguoti 3D modelio matmenis ir automatiškai ji sugeneruotu ir atvaizduotu klientui, failu pav. (SLDPRT, SLDASM) failai suikurti su SolidWorks programa
 # 2023-10-18
@@ -17,6 +24,7 @@
 # 2023-10-16
 - Kaip reiktu spresti ši uždavini?
 - https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript
+
 # 2023-10-12
 - Kai tinklalapi priartinus viskas išsimieto tekstas ir t.t. kaip padaryti, kad nebutu išsimetitas
 - Inrasius i <main ...display: inline-block;"> niekas nepasikeičia, ar ir neturi faktiškai kažkas matitis (display: inline-block)?
