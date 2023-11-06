@@ -1,42 +1,28 @@
 # 2023-11-07
 - JavaScript kalba:
-- 
+```
 const meniuBtnEditOn = document.querySelector(".btnEditCancel > button");
-
 const meniuBtnEdit = document.querySelector(".edit");
-
 const meniuBtnCancel = document.querySelector(".cancel");
 
-
 meniuBtnCancel.addEventListener("click", () => {
-
   console.log('btn Cancel');
-  
   meniuBtnEdit.classList.remove("on");
-  
 });
-
 meniuBtnEdit.addEventListener("click", () => {
-
   console.log('btn Edit');
-  
   meniuBtnEdit.classList.add("on");
-  
 });
+
 
 meniuBtnEditOn.addEventListener("click", () => {
-
   if (meniuBtnEdit.classList.contains("on")) {
-  
       console.log('veikia');
-      
   } else {
-  
     console.log('neveikia');
-    
   };
-  
 });
+```
 
 - HTML kalba:
 ```
