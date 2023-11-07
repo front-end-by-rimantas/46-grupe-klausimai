@@ -1,3 +1,6 @@
+# 2023-11-07
+* Pramokus *byški* JS. Kyla klausimai. Tokie kaip: o ar nėra taip, kad šiandieniniai modernūs tinklalapiai ir jų griaučiai (HTML), konstruojami as base as possible, ir visas contentas generuojamas JS pagalba? Jeigu taip? Tai gal dėl to ir yra sakoma, kad kiekvienas modernus šiandieninis tinklalapis - yra app'sas?.
+
 # 2023-11-03
 * Susidūrus su EventListeneriais, ir kai "klausai" 1 elemento, o modifikuoji f-unkcionalumą jame esančio - pagalvoji kas būtų, jei eventListeneriai būtų tiems elementams atskiri. Tai vienu paspaudimu aktyvuotusi abudu? Panagrinėjus temą internete plačiau susidūriau su savokomis propagation: bubbling ir capturing. Kaip ir aišku ką ten rašo, bet praktiškai - niekas neaišku. Gal galima plačiau?
 * Kai turi mygtuką pagamintą iš divų - jam uždėtas event listeneris - ir jį spaudai - bespaudant kartais suveikia šio div elemento, arba greta esančio div elemento selectinimas naršyklėje - t.y. jis pasižymi visas ir pasidaro mėlynas - ar įmanoma tokio funkcionalumo clickinamiems elementams atsisakyti, kad nedarkytų vaizdo?
