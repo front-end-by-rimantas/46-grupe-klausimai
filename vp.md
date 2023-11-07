@@ -1,3 +1,6 @@
+# 2023-11-07
+- Vakar išmokėte mus pakeisti div plotį, atsižvelgiant į įrenginio ekrano skiriamąją gebą. O ką daryti su header, meniu ir images? 
+
 # 2023-11-03
 - Ar yra koks nors būdas stebėti, ar visi divai yra uždaryti html? Aš praleidau daug laiko, kad suprasčiau, kad kodas neveikia, nes div blokas nėra uždarytas.
 # 2023-10-26
