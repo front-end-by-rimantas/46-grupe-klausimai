@@ -1,5 +1,5 @@
 # 2023-11-12 
-- Pagalvojau apie jusu užduotį suskaičiuoti žodžių skaičių tekste. Bet kuris sprendimas netenkina, arba aš jo neradau. Kas yra žodis? Ar kas nors atskirta tarpais? Gerai. Bet kaip dėl jungtukų ir prielinksnių? O kaip galima implementoti Mrs. Drupple arba No.1? 
+- Pagalvojau apie jusu užduotį suskaičiuoti žodžių skaičių tekste. Bet kuris sprendimas netenkina, arba aš jo neradau. Kas yra žodis? Ar kas nors atskirta tarpais? Gerai. Bet kaip dėl jungtukų ir prielinksnių? O kaip galima implementoti Mrs. Drupple-Purple arba No.1? 
 # 2023-11-08
 - Vienam puslapiui sukuriame kelis CSS failus. Tai patogu. Kas nutinka, kai yra daug svetainės puslapių? Mums gausim visą zoologijos sodą?
 # 2023-11-07
